@@ -1,0 +1,6 @@
+export const OVERPAY_CONFIG = {
+  SECRET_KEY: '40008ed4b466db731d30750212e96f67a000fab39e4a5910b63828f5e24d6e74',
+  PUBLIC_KEY: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzi9i1eeMidtkAzg6gZcf4zrwYSuRzzfiosyy0WOupGwdvT9M4JRwQHbZBHuiJPAzIp6qqjyDttq7wJRGo7Zb3NPv/Sf6ww6CGTqY9sZkEuZrAeN7BJMngefqiFFOmNdUuiH+b7qLZf2uz5Jp+qBOiLv+oYyZrrjK3DNx7yOv36Nh1DQCd2lS0xlexeMAU0TvWkXCmiJxzpdaunSKTRDjiPkafZCl4rNoK13oyH9Bp7ws2HgTdcAewv9cve+gVuI3tySwEnqk5uLyhzV5mFTVTwiO1K9YDO8ZgSmgs98d64ZumChVud8JYd4eSSYVypTDyGFdsfjtnRBusgOBK1XezQIDAQAB',
+  PAYMENT_URL: 'https://api.overpay.io/products/prd_46a8bd6947ea9343/pay',
+  API_BASE_URL: 'https://api.overpay.io'
+};
